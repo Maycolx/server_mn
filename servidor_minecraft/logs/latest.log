@@ -60,3 +60,8 @@
 [12Jun2025 23:29:07.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noisises lost connection: Disconnected
 [12Jun2025 23:29:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noisises left the game
 [12Jun2025 23:30:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[12Jun2025 23:38:15.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noisises[/127.211.202.173:47995] logged in with entity id 2391 at (-36.98887749025205, 70.0, -21.42012483610247)
+[12Jun2025 23:38:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noisises joined the game
+[12Jun2025 23:38:31.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noisises lost connection: Disconnected
+[12Jun2025 23:38:31.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noisises left the game
+[12Jun2025 23:39:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
